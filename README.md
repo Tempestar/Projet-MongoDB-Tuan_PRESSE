@@ -30,3 +30,5 @@ On utilise donc des requêtes pour les données GeoJson, qui tournent à partir 
 
 Ce type de données est intéressant dans notre contexte. En effet, nous pouvons ressortir les coordonnées en latitude et longitude des différents restaurants afin de pouvoir les localiser sur une carte. Ainsi, nous pouvons déterminer par exemple la distance entre le domicile d'un client et le restaurant, et une possibilité d'avoir toutes les informations de contact directement sur la carte.
 
+
+
