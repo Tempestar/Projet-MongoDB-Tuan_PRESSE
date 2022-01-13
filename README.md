@@ -1,6 +1,6 @@
 # MongoDB
 
-##Contexte
+## Contexte
 
 Nous sommes dans un contexte où une chaîne de restaurants souhaite récupérer des données client dans le but de capitaliser sur un flux de personnes grandissant. L'utilisation d'un SGBD tel que MongoDB est pertinent dans ce cas, étant donné que nous voulons ordonner toutes les données client et les réutiliser dans un contexte de Big Data qu'on peut gérer en temps réel.
 MongoDB a pour avantage sa structure en NOSQL différente de celles en SQL. En effet, celle-ci est composée de 3 éléments :
@@ -25,7 +25,7 @@ On utilise donc des requêtes pour les données GeoJson, qui tournent à partir 
 
 Ce type de données est intéressant dans notre contexte. En effet, nous pouvons ressortir les coordonnées en latitude et longitude des différents restaurants afin de pouvoir les localiser sur une carte. Ainsi, nous pouvons déterminer par exemple la distance entre le domicile d'un client et le restaurant, et une possibilité d'avoir toutes les informations de contact directement sur la carte.
   
-##Partie technique
+## Partie technique
 Nous comptons réaliser sur MongoDB 4 collections :
   -Les restaurants, qui contiendront donc le nom et l'adresse, elle-même composée de son libellé, de sa ville et du code postal
   -Les produits, qui contiendront le nom, le prix et la réduction sur les produits
