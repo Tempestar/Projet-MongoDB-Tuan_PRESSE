@@ -31,6 +31,7 @@ Nous comptons réaliser sur MongoDB 4 collections :
   -Les produits, qui contiendront le nom, le prix et la réduction sur les produits
   -Les clients, qui renseigneront leur nom, leur prénom, leur date de naissance, ainsi que leurs coordonnées (adresse, mail, téléphone) et leur mot de passe
   -Les commandes, qui auront donc la liste des commandes avec comme informations le nom du restaurant, le nom et prénom du client, la date de la commande ainsi que le produit et sa réduction.
+  
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/65296828/148961709-7a271d90-b25f-436d-9a10-479ac2b1381a.png)
 
   
